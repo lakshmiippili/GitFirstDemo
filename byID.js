@@ -40,12 +40,6 @@ headerTitle.innerHTML = '<h3>Hello</h3>'
 
 headerTitle.style.borderBottom='solid 3px #000'
 
-
-
-
-
-
-
  var addItems = document.getElementsByClassName('title')
 
 
@@ -55,8 +49,4 @@ headerTitle.style.borderBottom='solid 3px #000'
  addItems[0].style.fontWeight ='bold';
 
  addItems[0].style.color='green'
-
-
-
-
 
